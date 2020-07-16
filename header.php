@@ -13,17 +13,24 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>Love's Web Firm</title>
 	<!-- Meta Description -->
-	<meta name="description" content="Helping Businesses Grow By Means Of Websites, Marketing, Social Media, and Consultatation!">
-	<meta name="keywords"
-		content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation, consulting, consultant, web, website, web dev, web developer, web designer, hosting, server hosting,
-		security, server security, cyber security, social media, social media manager, ad, campaign">
-	<meta name="author" content="Dr. Aubrey Love II">
+	<meta content="" name="Helping companies learn & grow by means of Websites, Mobile Apps, Consultation, Social Media & Marketing Campaigns.">
+  <meta content="" name="Websites, WebDev, webdev, webdeveloper, e-commerce, social, media, social media, consulting, consultant, consultation, marketing, promotion, business, company, forbes 500, hosting, security, cyber, cyber security, web hosting, server security">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z23B1N90KJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-Z23B1N90KJ');
+  </script>
+
+  <!-- Favicons -->
+  <link href="img/favicon.ico" rel="icon">
+  <link href="img/favicon.ico" rel="apple-touch-icon">
 
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<!-- CSS
-		================================================== -->
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 
