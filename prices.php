@@ -13,7 +13,7 @@
           <span>Business Package</span>
           <div class="value">
             <span>$</span>
-            <span>2,600</span>
+            <span style="font-family: 'Cinzel', serif; font-size: 40px;">2,600</span>
           </div>
           <ul>
             <li>* Informational Website</li>
@@ -41,7 +41,7 @@
           <span>Business+ Package</span>
           <div class="value">
             <span>$</span>
-            <span>5,000</span>
+            <span style="font-family: 'Cinzel', serif; font-size: 40px;">5,000</span>
           </div>
           <ul>
             <li>* E-Commerce Website</li>
@@ -53,11 +53,11 @@
             <li>* 6-Social Media Ads</li>
             <li>* 6-Hours Consulting</li>
             <li>
-              <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="Z8CVVA6DBQ8C6">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="RTG72DMK2N7KW">
+              <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+              <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
               </form>
             </li>
           </ul>
@@ -69,7 +69,7 @@
           <span>Forbes 500</span>
           <div class="value">
             <span>$</span>
-            <span>9,500</span>
+            <span style="font-family: 'Cinzel', serif; font-size: 40px;">9,500</span>
           </div>
           <ul>
             <li>* Web-Based App</li>
