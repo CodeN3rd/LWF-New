@@ -11,12 +11,13 @@
 	<meta charset="utf-8">
 	<!-- Always force latest IE rendering engine or request Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Blue One Page HTML Template</title>
+	<title>Love's Web Firm</title>
 	<!-- Meta Description -->
-	<meta name="description" content="Blue One Page Creative HTML5 Template">
+	<meta name="description" content="Helping Businesses Grow By Means Of Websites, Marketing, Social Media, and Consultatation!">
 	<meta name="keywords"
-		content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
-	<meta name="author" content="Muhammad Morshed">
+		content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation, consulting, consultant, web, website, web dev, web developer, web designer, hosting, server hosting,
+		security, server security, cyber security, social media, social media manager, ad, campaign">
+	<meta name="author" content="Dr. Aubrey Love II">
 
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
