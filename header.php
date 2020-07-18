@@ -9,11 +9,10 @@
 <head>
 	<!-- meta character set -->
 	<meta charset="utf-8">
-	<!-- Always force latest IE rendering engine or request Chrome Frame -->
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Love's Web Firm</title>
-	<!-- Meta Description -->
-	<meta content="" name="Helping companies learn & grow by means of Websites, Mobile Apps, Consultation, Social Media & Marketing Campaigns.">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Loves Web Firm</title>
+  <meta content="" name="Helping companies learn & grow by means of Websites, Mobile Apps, Consultation, Social Media & Marketing Campaigns.">
   <meta content="" name="Websites, WebDev, webdev, webdeveloper, e-commerce, social, media, social media, consulting, consultant, consultation, marketing, promotion, business, company, forbes 500, hosting, security, cyber, cyber security, web hosting, server security">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z23B1N90KJ"></script>
@@ -29,8 +28,8 @@
   <link href="img/favicon.ico" rel="icon">
   <link href="img/favicon.ico" rel="apple-touch-icon">
 
-	<!-- Mobile Specific Meta -->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- CSS
+		================================================== -->
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 
